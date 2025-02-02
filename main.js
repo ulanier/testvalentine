@@ -7,7 +7,7 @@ form.addEventListener("submit", (e) => {
 
 	var token = "7771713616:AAESCtOZHkKTPBlbn1xPFCLXRzEbMhtrHL0"
 
-	var chat_id = "5454119535"
+	var chat_id = "-4710183744"
 
 	var my_text = `my text is ${text}`
 
